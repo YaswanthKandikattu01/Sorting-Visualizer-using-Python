@@ -38,11 +38,7 @@ When the application is launched:
 
 ---
 
-## 🖼️ Demo
 
-![Sorting Visualizer Demo](assets/demo.gif)
-
----
 
 ## 🛠️ Requirements
 
@@ -67,17 +63,6 @@ cd Sorting-Visualizer-using-Python
 python sorting_visualizer.py
 ```
 
----
-
-## 📂 File Structure
-
-```
-📁 Sorting-Visualizer-using-Python/
-├── sorting_visualizer.py   # Main application code
-├── assets/
-│   └── demo.gif             # Demo GIF or screenshot
-└── README.md                # Project documentation
-```
 
 ---
 
@@ -97,7 +82,3 @@ This tool is particularly useful for:
 GitHub: [YaswanthKandikattu01](https://github.com/YaswanthKandikattu01)
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License.
